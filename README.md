@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**coltonphass/coltonphass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Colton, a computer science student and software engineer based in Maryland, U.S.A.
 
-Here are some ideas to get you started:
+I build things, explore what I’m interested in, and enjoy turning ideas into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately, I’ve been having a lot of fun gamifying my learning through platforms like CodinGame and libraries such as Pygame.
+
+My main tech stack is Python, JavaScript, HTML/CSS, and C++.  
+I spend a lot of time working with Git, databases, Linux environments, and performance-focused web development.
+
+I’ve worked on everything from personal websites and client projects to academic AI research and small game development.
+
+I’m always learning — whether it’s a new feature, a current interest, or a side project.
+
+#### Fun Facts
+- 🏴‍☠️ One Piece is my favorite anime
+- 🤖 I’m involved in an artificial intelligence research group
+- 🍝 Pasta is my favorite food
+- 🎸 Hobbies: coding, guitar, and gaming
