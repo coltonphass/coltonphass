@@ -14,7 +14,7 @@ I’ve worked on everything from personal websites and client projects to academ
 I’m always learning — whether it’s a new feature, a current interest, or a side project.
 
 #### Fun Facts
-- 🏴‍☠️ One Piece is my favorite anime
-- 🤖 I’m involved in an artificial intelligence research group
-- 🍝 Pasta is my favorite food
-- 🎸 Hobbies: coding, guitar, and gaming
+- One Piece is my favorite anime
+- I’m involved in an artificial intelligence research group
+- Pasta is my favorite food
+- Hobbies: coding, guitar, and gaming
