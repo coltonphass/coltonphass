@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Colton, a computer science student and software engineer based in Maryland, U.S.A.
+I’m Colton, a computer science student and software engineer [@Kreative Technologies](https://kreativetech.com/) based in Maryland, U.S.A.
 
 I build things, explore what I’m interested in, and enjoy turning ideas into code.
 
