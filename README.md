@@ -1,20 +1,27 @@
-### Hi there 👋
+## Hello ❤︎
 
-I’m Colton, a computer science student and software engineer [@Kreative Technologies](https://kreativetech.com/) based in Maryland, U.S.A.
+My name is Colton, I'm a compsci student [@UMGC(https://www.umgc.edu/)] and software engineer I [@Kreative Technologies](https://kreativetech.com/) based in Maryland, U.S.A.
 
-I build things, explore what I’m interested in, and enjoy turning ideas into code.
+My main tech stack is Java, SQL, XML, and Python.  
+I spend most of my time working with Git, SQL Server, Java and my Linux Fedora environment.
 
-Lately, I’ve been having a lot of fun gamifying my learning through platforms like CodinGame and libraries such as Pygame.
+I like to build things and figure out how they work, I am learning to turn my ideas into code.
 
-My main tech stack is Python, JavaScript, HTML/CSS, and C++.  
-I spend a lot of time working with Git, databases, Linux environments, and performance-focused web development.
+Lately, I’ve been trying to find avenues to make my learning entertaining, using resources like [Codingame(https://www.codingame.com/home)] & [Claude Code(https://claude.com/product/claude-code)].
 
-I’ve worked on everything from personal websites and client projects to academic AI research and small game development.
+I’ve worked on everything from personal websites to DHA healthcare information systems, I plan to expand my reach into more personal game development.
 
-I’m always learning — whether it’s a new feature, a current interest, or a side project.
+I am open to work
 
-#### Fun Facts
-- One Piece is my favorite anime
-- I’m involved in an artificial intelligence research group
-- Pasta is my favorite food
-- Hobbies: coding, guitar, and gaming
+⠀⠀⠀⣠⠞⢠⠖⠉⠉⠉⢭⣭⣀⡉⣍⠉⠉⠒⠭⣑⠤⡀⠀⠀⠀⠀
+⠀⠀⡞⠁⡰⠳⢦⣼⣿⡿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠈⠓⣌⢢⡀⠀⠀
+⠀⣸⠁⣰⣵⣾⣿⣿⡿⠹⣿⣿⢿⣟⣿⣿⣿⣿⣿⣦⡀⠈⢣⠱⡀⠀
+⠀⢯⢠⣿⠟⣿⣿⣿⡇⠀⣿⠛⣷⢙⣻⢌⣻⠟⣿⣿⣿⣆⠀⢧⢳⠀
+⠀⠘⡞⢡⣼⣿⣿⣯⣧⠀⠘⠆⢨⠋⢠⡤⢘⣆⢻⣿⣿⣿⠇⢸⠀⡇
+⠀⠀⢱⡼⢟⣿⣿⣿⠋⢑⣄⠀⠈⠢⠤⠔⣺⣏⠀⣿⣿⡏⠀⡼⠀⡇
+⠀⠀⠁⠘⢺⣿⣿⣿⣦⣈⣽⠀⠀⢀⡤⠊⢡⣾⠀⠸⣿⢃⡴⠁⡜⠁
+⠀⠀⠀⠀⠀⠻⠙⠟⣿⡀⢨⠭⠊⡡⠔⠀⢠⠃⡜⣿⡋⣁⡠⠊⠀⠀
+⠀⠀⠀⠀⡰⠉⢓⠀⠈⠳⢌⡳⢄⣀⠤⠒⢁⠞⡼⠙⡄⠀⠀⠀⠀⠀
+⠀⠀⣀⠤⣣⣄⢸⠀⠀⠀⠀⠉⠑⠒⠤⢲⣥⠼⣤⣤⣱⡀⠀⠀⠀⠀
+⣠⠊⠁⠀⠀⠈⣞⣆⠀⠀⠀⠀⠀⠀⣴⠏⠀⠀⠀⠙⢿⣿⣧⡀⠀⠀
+⠄⠈⠉⠉⠙⢦⢻⠚⣄⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⢸⣿⣿⣧⠀⠀
